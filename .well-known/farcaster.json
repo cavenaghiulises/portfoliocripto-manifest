@@ -10,15 +10,14 @@
   "miniapp": {
     "version": "1",
     "name": "Portfolio Cripto",
-    "homeUrl": "https://portfoliocripto.lovable.app",
+    "description": "Mini app que hace preguntas y recomienda un portfolio cripto según tus respuestas.",
+    "url": "https://portfoliocripto.lovable.app",
+    "image": "https://portfoliocripto.lovable.app/og-image.png",
     "iconUrl": "https://portfoliocripto.lovable.app/favicon.ico",
     "splashImageUrl": "https://portfoliocripto.lovable.app/og-image.png",
     "splashBackgroundColor": "#000000",
-    "subtitle": "Recomendador simple de portfolio",
-    "description": "Mini app que hace preguntas y recomienda un portfolio cripto según tus respuestas.",
     "primaryCategory": "education",
     "tags": ["portfolio", "education"],
-    "heroImageUrl": "https://portfoliocripto.lovable.app/og-image.png",
     "noindex": true
   }
 }
